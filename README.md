@@ -27,36 +27,36 @@ $> cat .author.json
 
 # Arrays and Strings
 
-## ex01.js
+## ex01.js ✔️ 
 
 Implement an algorithm to determine if a string has all unique characters. What if you
 can not use additional data structures?
 
-## ex02.js
+## ex02.js ✔️
 
 Write code to reverse a String
 
-## ex03.js
+## ex03.js ✔️
 
 Write a method to decide if two strings are anagrams or not.
 
 # Linked list
 
-## ex04.js
+## ex04.js ✔️
 
 Create a Linked List with 2 methods: **appendToTail(v: T)** and **deleteNode(index: number)**
 
-## ex05.js
+## ex05.js ✔️
 
 Write code to remove duplicates from an unsorted linked list.
 
-## ex06.js
+## ex06.js ✔️
 
 Implement an algorithm to find the nth to last element of a singly linked list.
 
 # Stacks and Queues
 
-## ex07.js
+## ex07.js ✔️
 
 Implement a Stack (LIFO) with 2 methods: **push(v: T)** and **pop()**
 
@@ -72,7 +72,7 @@ Push, pop and min should all operate in O(1) time.
 
 # Object Oriented Design
 
-## ex10.js
+## ex10.js ✔️
 
 Design the data structures for a generic deck of cards.
 
