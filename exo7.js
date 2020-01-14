@@ -5,11 +5,10 @@ function pushItemStack(item, stack) {
 }
 
 function popItemStack(stack) {
-    if (stack.items.length == 0) {
-        console.log("Stack already empty");
-    }
+    stack.isEmpty()
     stack.items.pop()
 }
+
 const stack = new Stack();
 pushItemStack("Andrea", stack)
 pushItemStack("Test", stack)

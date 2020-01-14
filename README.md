@@ -60,7 +60,7 @@ Implement an algorithm to find the nth to last element of a singly linked list.
 
 Implement a Stack (LIFO) with 2 methods: **push(v: T)** and **pop()**
 
-## ex08.js
+## ex08.js ✔️
 
 Implement a Queue (FIFO) with 2 methods: **enqueue(v: T)** and **dequeue()**
 
